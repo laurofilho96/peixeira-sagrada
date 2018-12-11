@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Login.unity
+    guid: 2d484d2150a8c2e4ca22d7f015058ce9
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3ec01280951699d429d5ef07b51ae6d7
+  - enabled: 1
+    path: Assets/Scenes/MenuLogado.unity
+    guid: 556fad80add360b47a7d3bf0075ff1f3
+  - enabled: 0
+    path: Assets/Scenes/CriandoPrefabs.unity
+    guid: 4ac60d05102555947978e0114699716a
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 814aa3213f5fab644a7e26499e4ed00f
+  - enabled: 0
+    path: Assets/Scenes/CombatSystem.unity
+    guid: 53eb5a5b3dcbaaa43aab1aa5f3c6c800
+  - enabled: 0
+    path: Assets/Scenes/Demo.unity
+    guid: 3f381342d52bb8344b504f968eb03225
+  - enabled: 1
+    path: Assets/Scenes/Singleplayer.unity
+    guid: d9cb4f73ea4e08e47b69a16bdb98590c
+  - enabled: 1
+    path: Assets/Scenes/Bestiario.unity
+    guid: 21f2d699392dcfe42974f86c389ec2cd
+  - enabled: 1
+    path: Assets/Scenes/Melhorias/CharacterSelect.unity
+    guid: a0a3bb90a8748894bae89f2173fab1ba
+  m_configObjects: {}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "340674244079",
+    "firebase_url": "https://a-peixeira-sagrada.firebaseio.com",
+    "project_id": "a-peixeira-sagrada",
+    "storage_bucket": "a-peixeira-sagrada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340674244079:android:a7e99929816f0bd6",
+        "android_client_info": {
+          "package_name": "com.laurofilho.apeixeirasagrada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340674244079-765ubvp75cmfe054ej004akqo21p9h73.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "340674244079-765ubvp75cmfe054ej004akqo21p9h73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDksGgg3XjGrKAsXNOh8NazAu_pAWwIegQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509fb74c90ac550458823b42a8b9d18d, type: 3}
+  m_Name: Cuca
+  m_EditorClassIdentifier: 
+  nome: Cuca
+  descricao: "Uma criatura similar a um crocodilo mas personificada, a cuca \xE9 um
+    ser que dorme uma noite a cada sete anos. Vive em sua gruta, onde cria po\xE7\xF5es
+    e leva crian\xE7as desobedientes e que demonstram atividade noturna para faze-las
+    de sua refei\xE7\xE3o."
+  anotacao: "\"Ainda maior do que eu pensava que fosse quando crian\xE7a. Mas isso
+    n\xE3o me amedronta, \tj\xE1 tirei o couro dos primos dela pra fazer de roupa
+    \xE0 base da facada!  \t\t\xC9 do tipo que age sozinha e usa a covarde t\xE9cnica
+    do \"bate e corre\". Mas ela n\xE3o \xE9 t\xE3o \tr\xE1pida. Solta fogo pela boca,
+    parece at\xE9 aqueles lagartos que os europeus tanto falam.\""
+  arte: {fileID: 21300000, guid: 8daa163c2c07e3345951dbcfdcdf224d, type: 3}

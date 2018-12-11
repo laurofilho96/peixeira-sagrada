@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509fb74c90ac550458823b42a8b9d18d, type: 3}
+  m_Name: Corpo-Seco
+  m_EditorClassIdentifier: 
+  nome: Corpo Seco
+  descricao: "O corpo-seco \xE9 uma criatura que cultivou raiva e \xF3dio durante
+    seu per\xEDodo de vida. Suas atitudes e inten\xE7\xF5es foram t\xE3o insensatas
+    que nem o pr\xF3prio Diabo teve coragem de lhe arrastar para o inferno. O que
+    dizer da vontade de Deus e da pr\xF3pria terra, ent\xE3o?"
+  anotacao: "\"Bem, agora sabemos o que tem ap\xF3s a morte, mais morte. \t\tEsse
+    dem\xF4nio parece que passou anos sem comer, al\xE9m de sua raqu\xEDtica apar\xEAncia,
+    eles \tavan\xE7am em voc\xEA como quem tem sede de sangue. \t\tPele seca, sem
+    cabelo, olhos caindo, me d\xE1 at\xE9 nojo ver um tro\xE7o desses andando por
+    a\xED, \tvou at\xE9 passar a lambida nas guela disso da\xED.\""
+  arte: {fileID: 21300000, guid: 138f87f69769da3489e1776f6eae9474, type: 3}

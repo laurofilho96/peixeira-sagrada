@@ -1,0 +1,19 @@
+Para fazer a randomização correta dos mapas na dungeon!!
+
+-Crie o visual da Dungeon, do andar;
+-Preencha a dungeon com colliders, spawn points de inimigos, ponto de partida e ponto de chegada;
+-Transforme-a em prefabs.
+
+	A partir daí, você pode jogar offline, caso tenha inimigos e player, todos bem configurados. Agora a parte online.
+
+-Crie um script para gerenciar as dungeons.
+	.Nesse script, você tem que possuir uma lista, que será composta pelos prefabs das dungeons,
+	 a lista provavelmente será de gameObjects. Feito a lista, você precisa criar um método que
+	 selecione um item aleatório da lista e instancie ele.
+
+	.Até aí, beleza, só que se você apenas fizer isso, na hora de jogar, um player estará em uma
+	 dungeon e o outro estará em outra, quando for jogar. Para contornar isso, quem deve fazer a
+	 dungeon ser escolhida é o servidor. então, EM CIMA DA LISTA, será posto uma config, que per-
+	 mite que quem escolha isso seja o servidor e ele passe depois para TODOS os clientes, o mesmo
+	 valor, este é [sync var]. Precisamos usar ele com hook, que faz com que assim que a variável
+	 mude, o método seja chamado, então fica [sync var(hook="Método")]. Feito isso, é para funcionar.
